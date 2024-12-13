@@ -1,70 +1,90 @@
-# Getting Started with Create React App
+# TextUtiles
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![TextUtiles](https://img.shields.io/badge/TextUtiles-Demo%20React.js%20App-blue?style=for-the-badge&logo=react)
 
-## Available Scripts
+### 🌟 **Welcome to TextUtiles!**
+TextUtiles is a demo website showcasing my learning in React.js. It provides a text editor where you can:
 
-In the project directory, you can run:
+- Edit text in real-time
+- Convert text to **uppercase** or **lowercase**
+- Clear text
+- **Speak** text out loud
+- Copy text to clipboard
+- Remove extra spaces
+- View **text summary**, including word and character count, and estimated reading time
 
-### `npm start`
+This website demonstrates interactive React.js features and is live at [TextUtiles](https://saaadshk.github.io/TextUtiles/).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Features
 
-### `npm test`
+- **Real-Time Text Updates**: Watch text changes reflect instantly as you type.
+- **Text Transformations**: Convert your text to uppercase or lowercase effortlessly.
+- **Copy & Clear Options**: Quickly copy or clear the editor content.
+- **Speech Functionality**: Let the app read your text aloud.
+- **Space Remover**: Tidy up text by removing extra spaces.
+- **Text Summary**: Get a summary of word and character counts, and estimated reading time.
+- **React.js Feature Highlights**: Learn about React components, state, and props in action.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🛠️ Requirements
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To run this project locally, ensure you have:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Node.js** (v16 or higher)
+- **npm** (v7 or higher)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 📥 Installation
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Clone the repository:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ```bash
+   git clone https://github.com/saaadshk/TextUtiles.git
+   cd TextUtiles
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. Install dependencies:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+   ```bash
+   npm install
+   ```
 
-## Learn More
+3. Start the development server:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   ```bash
+   npm start
+   ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+4. Open your browser and navigate to:
 
-### Code Splitting
+   ```
+   http://localhost:3000
+   ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## 🤖 How It Works
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+TextUtiles utilizes React.js to demonstrate key features:
 
-### Making a Progressive Web App
+1. **React Components**: Modular structure for maintainable code.
+2. **State Management**: Real-time updates through state hooks.
+3. **Props Usage**: Passing data dynamically to child components.
+4. **Event Handling**: Interactive user actions such as button clicks.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## 👨‍💻 Developer
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Created with ❤️ by **Saad Shaikh**
 
-### Deployment
+[![GitHub](https://img.shields.io/badge/GitHub-SaadShaikh-black?style=for-the-badge&logo=github)](https://github.com/saaadshk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SaadShaikh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saad-shaikh-b23089214)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+---
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Enjoy using TextUtiles? Give it a ⭐ on [GitHub](https://github.com/saaadshk/TextUtiles)! 🚀
